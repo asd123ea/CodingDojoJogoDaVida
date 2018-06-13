@@ -1,0 +1,7 @@
+C:\Projetos\JogoDaVida\JogoDaVidaTeste\bin\Debug\JogoDaVidaTeste.dll
+C:\Projetos\JogoDaVida\JogoDaVidaTeste\bin\Debug\JogoDaVidaTeste.pdb
+C:\Projetos\JogoDaVida\JogoDaVidaTeste\bin\Debug\JogoDaVida.dll
+C:\Projetos\JogoDaVida\JogoDaVidaTeste\bin\Debug\JogoDaVida.pdb
+C:\Projetos\JogoDaVida\JogoDaVidaTeste\obj\Debug\JogoDaVidaTeste.csprojResolveAssemblyReference.cache
+C:\Projetos\JogoDaVida\JogoDaVidaTeste\obj\Debug\JogoDaVidaTeste.dll
+C:\Projetos\JogoDaVida\JogoDaVidaTeste\obj\Debug\JogoDaVidaTeste.pdb
